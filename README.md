@@ -1,4 +1,4 @@
-# DataCamp-Projects
+# Analysing Netflix Movies
 Key Insights:
 
 The most frequent movie duration in the 1990s was ~100 minutes.
